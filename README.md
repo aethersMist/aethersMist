@@ -30,10 +30,10 @@
 
 
 <!-- Tech Stack -->
-<h3 align="center">🛠 Language and Tools</h3>
+<h3 align="left">🛠 Language and Tools</h3>
 
 <!-- 🌐 Web Technologies -->
-<div align="center">
+<div align="left">
   <strong>🌐 Web Technologies:</strong><br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img width="12" />
@@ -47,7 +47,7 @@
 <br />
 
 <!-- 🧱 Frameworks & UI Libraries -->
-<div align="center">
+<div align="left">
   <strong>🧱 Frameworks & UI Libraries:</strong><br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel" />
   <img width="12" />
@@ -67,7 +67,7 @@
 <br />
 
 <!-- ☁️ Hosting & Deployment -->
-<div align="center">
+<div align="left">
   <strong>☁️ Hosting & Deployment:</strong><br />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" height="30" alt="Vercel" />
 </div>
@@ -75,7 +75,7 @@
 <br />
 
 <!-- 🎨 Design Tools -->
-<div align="center">
+<div align="left">
   <strong>🎨 Design Tools:</strong><br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
   <img width="12" />
@@ -87,7 +87,7 @@
 <br />
 
 <!-- 🛠 Adobe Creative Suite -->
-<div align="center">
+<div align="left">
   <strong>🛠 Adobe Creative Suite:</strong><br />
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" height="30" alt="Photoshop" />
   <img width="12" />
@@ -107,7 +107,7 @@
 <br />
 
 <!-- 📊 GitHub Stats -->
-<div align="center">
+<div align="left">
   <strong>📊 GitHub Stats:</strong><br /><br />
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=aethersMist&theme=holi&hide_border=false&include_all_commits=true&count_private=true" height="200" />
